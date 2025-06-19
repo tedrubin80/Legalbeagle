@@ -1,0 +1,1 @@
+// PrivateRoute component placeholder
